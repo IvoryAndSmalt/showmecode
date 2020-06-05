@@ -2,16 +2,20 @@
 
 ## HTML
 
+![une image](./code.png);
+
+
 ```html
-<header>
-    <img src="./assets/images/burger.png" alt=""/>
-</header>
+<header></header>
 ```
 
-Voici le css :
+```javascript
+const salut = "lucas"
+```
 
 ```css
-header {
-    background: transparent;
+header{
+    color: blue;
 }
+
 ```
