@@ -2,7 +2,7 @@
 
 ## HTML
 
-![une image](./code.png);
+![une image](./code.png)
 
 
 ```html
