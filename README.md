@@ -2,7 +2,4 @@
 
 #### Links
 
-* [Google](google.com)
-* [Google](google.com)
-* [Google](google.com)
-* [Google](google.com)
+* [Aide à l'intégration](https://github.com/IvoryAndSmalt/showmecode/tree/master/background_integrer)
