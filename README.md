@@ -1,21 +1,8 @@
-# menu burger
+# Welcome to my code bin :)
 
-## HTML
+#### Links
 
-![une image](./code.png)
-
-
-```html
-<header></header>
-```
-
-```javascript
-const salut = "lucas"
-```
-
-```css
-header{
-    color: blue;
-}
-
-```
+* [Google](google.com)
+* [Google](google.com)
+* [Google](google.com)
+* [Google](google.com)
